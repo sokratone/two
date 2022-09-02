@@ -146,6 +146,23 @@
 }
 
 
+.is {
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
 body {
     text-align: center;
     font-family: sans-serif
