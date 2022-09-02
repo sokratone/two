@@ -1,0 +1,152 @@
+.name {
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.subject {
+    color: red;
+     font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px
+}
+
+.title{
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.intro {
+    font-size:100px;
+    color: red;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center
+}
+
+.intro2 {
+    font-size: 90px;
+    color: black;
+    font-weight: bold;
+     margin-top: 50px;
+     margin-bottom: 50px;
+
+}
+
+
+.element {
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.one {
+    font-size: 90px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.oo1 {
+    margin-bottom: 50px
+}
+
+.oo1-1 {
+    color: red
+ }
+
+
+
+
+.two {
+    font-size: 90px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px
+}
+
+
+.oo2 {
+    margin-bottom: 50px
+}
+.oo2-2 {
+    color: red;
+ }
+
+
+
+.value {
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+.valuespan {
+    font-size: 90px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.question {
+    color: green;
+    font-size: 90px;
+    margin-bottom: 50px
+}
+
+
+.homework {
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    
+}
+
+
+.homeworktwo {
+    font-size: 90px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+
+
+
+
+.law {
+    font-size: 100px;
+    color:black;
+    font-weight: bold;
+    padding: 50px;
+   
+    
+    
+}
+
+
+body {
+    text-align: center;
+    font-family: sans-serif
+}
